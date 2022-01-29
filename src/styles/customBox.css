@@ -1,0 +1,32 @@
+.one-card-box {
+  box-shadow: 0px 4px 24px rgba(0, 0, 0, 0.04);
+  padding: 1rem;
+  margin-bottom: 1rem;
+}
+
+.card-title-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 3rem;
+}
+
+.card-title-row > h1 {
+  margin: 0;
+}
+
+.card-icons-container > i {
+  padding-left: 0.8rem;
+  cursor: pointer;
+}
+
+.card-text-row {
+  height: 3rem;
+  display: flex;
+  align-items: center;
+}
+
+.disable {
+  cursor: default !important;
+  color: grey;
+}

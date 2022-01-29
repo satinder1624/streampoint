@@ -1,0 +1,26 @@
+.editTextContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.editSection {
+  display: flex;
+  flex-direction: column;
+  margin: 1rem 2rem;
+}
+
+.editSection > span {
+  font-size: 15px;
+  line-height: 30px;
+}
+
+.editSection > input {
+    border: 1px solid #E0E0E0;
+    outline: none;
+    height:25px;
+}
+.editSection > textarea {
+    border: 1px solid #E0E0E0;
+    outline: none;
+}

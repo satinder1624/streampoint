@@ -1,0 +1,12 @@
+.navbar{
+  background-color: #FFFFFF;
+  padding:16px 24px 16px 24px;
+  height: 45px;
+  font-size: 30px;
+  font-weight:bold;
+  letter-spacing:2px;
+}
+
+.navbar-first{
+    color:#ED186D;
+}
